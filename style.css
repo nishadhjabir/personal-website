@@ -9,3 +9,8 @@ body{
   height: 250px;
   object-fit: cover;
 }
+
+.card {
+  border-radius: 1.5rem!important;
+  overflow: hidden;
+}
