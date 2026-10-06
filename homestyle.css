@@ -1,3 +1,9 @@
+@view-transition {
+  navigation: auto;
+}
+
+
+
 body{
     padding: 20px;
     font-family: "google sans"!important;
