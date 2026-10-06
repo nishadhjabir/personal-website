@@ -28,7 +28,7 @@ body{
 }
 
 .button-content {
-  transform: translateY(-45px);
+  transform: translateY(-47px);
   transition: all 250ms ease-in-out;
 }
 
@@ -42,7 +42,7 @@ body{
 }
 
 .text-container .text {
-  font-size: 13px;
+  font-size: 15px;
   color: #fff;
   font-weight: 600;
   opacity: 1;
