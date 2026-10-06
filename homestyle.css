@@ -6,7 +6,7 @@ body{
 }
 
 .fixed-img {
-  /* height: 250px; */
+  height: 250px;
   object-fit: cover;
 }
 
@@ -22,7 +22,7 @@ body{
   cursor: pointer;
   background: white;
   border: none;
-  background: #dc554c;
+  background: #5f7e4a;
   border-radius: 30px;
   overflow: hidden;
 }
