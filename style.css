@@ -33,7 +33,7 @@ body{
 }
 
 .button-content {
-  transform: translateY(-47px);
+  transform: translateY(-46px);
   transition: all 250ms ease-in-out;
 }
 
