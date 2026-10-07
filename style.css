@@ -20,14 +20,14 @@ body{
 }
 
 
-.download-btn {
+.download-btn, .socialbtn {
   height: 45px;
   width: 95px;
   cursor: pointer;
   background: white;
   border: none;
   background: #9f312a;
-  border-radius: 30px;
+  border-radius: 0 16px 16px 0;
   overflow: hidden;
 }
 
