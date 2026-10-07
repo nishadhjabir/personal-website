@@ -19,8 +19,17 @@ body{
   overflow: hidden;
 }
 
+.socialbtn {
+  height: 45px;
+  width: 95px;
+  cursor: pointer;
+  border: none;
+  background: #9f312a;
+  overflow: hidden;
+}
 
-.download-btn, .socialbtn {
+
+.download-btn {
   height: 45px;
   width: 95px;
   cursor: pointer;
