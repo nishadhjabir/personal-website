@@ -24,8 +24,24 @@ body{
   width: 95px;
   cursor: pointer;
   border: none;
-  background: #9f312a;
+  border-radius: 6px;
+  background: #BEEFBB;
   overflow: hidden;
+  transition-duration: 0.5s;
+}
+
+.socialbtn .text-container .text{
+  color: #002110!important;
+}
+
+
+
+.socialbtn:hover{
+  border-radius: 30px;
+  background: #00522C;
+.text-container .text{
+  color: white!important;
+}
 }
 
 
@@ -35,8 +51,8 @@ body{
   cursor: pointer;
   background: white;
   border: none;
-  background: #9f312a;
-  border-radius: 0 16px 16px 0;
+  background: #FFB3AE;
+  border-radius: 6px 30px 30px 6px;
   overflow: hidden;
 }
 
@@ -55,9 +71,8 @@ body{
 }
 
 .text-container .text {
-  font-size: 15px;
-  color: #fff;
-  font-weight: 600;
+  font-size: 17px;
+  color: #3A0907;
   opacity: 1;
   transition: opacity ease-in-out 250ms;
 }
@@ -65,7 +80,7 @@ body{
 .download-icon {
   height: 25px;
   width: 25px;
-  fill: #fff;
+  fill: #3A0907;
   opacity: 0;
   transition: opacity ease-in-out 250ms;
 }
