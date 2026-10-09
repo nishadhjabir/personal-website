@@ -25,22 +25,22 @@ body{
   cursor: pointer;
   border: none;
   border-radius: 6px;
-  background: #BEEFBB;
+  background: #41682C;
   overflow: hidden;
   transition-duration: 0.5s;
 }
 
 .socialbtn .text-container .text{
-  color: #002110!important;
+  color: white!important;
 }
 
 
 
 .socialbtn:hover{
   border-radius: 30px;
-  background: #00522C;
+  background: #BEEFBB;
 .text-container .text{
-  color: white!important;
+  color: #002110!important;
 }
 }
 
@@ -51,7 +51,7 @@ body{
   cursor: pointer;
   background: white;
   border: none;
-  background: #FFB3AE;
+  background: #682c2c;
   border-radius: 6px 30px 30px 6px;
   overflow: hidden;
 }
@@ -72,7 +72,7 @@ body{
 
 .text-container .text {
   font-size: 17px;
-  color: #3A0907;
+  color: white;
   opacity: 1;
   transition: opacity ease-in-out 250ms;
 }
@@ -80,7 +80,7 @@ body{
 .download-icon {
   height: 25px;
   width: 25px;
-  fill: #3A0907;
+  fill: white;
   opacity: 0;
   transition: opacity ease-in-out 250ms;
 }
